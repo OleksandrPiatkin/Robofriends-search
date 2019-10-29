@@ -1,7 +1,7 @@
 {
   "name": "robofriends-search",
   "version": "0.1.0",
-  "homepage": "https://OleksandrPiatkin.github.io/robofriends-search",
+  "homepage": "https://github.com/OleksandrPiatkin/robofriends-search",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
