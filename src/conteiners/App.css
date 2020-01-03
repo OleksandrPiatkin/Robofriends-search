@@ -6,7 +6,8 @@
     }
 
 h1 {
-    font-family: 'SEGA LOGO FONT';
-    font-weight: 200;
+    /* be progressive use only font */
+    font: 200 'SEGA LOGO FONT', monospace;
+    /* always use reserve font */
     color: #4c63ad;
 }
